@@ -3,4 +3,12 @@
     <string name="boton_alumno">Alumno</string>
     <string name="boton_docente">Docente</string>
     <string name="boton_registrar">Registrar institución</string>
+    <string name="tv_NombreInstitucion">Nombre de la institución</string>
+    <string name="tv_Niveles">Niveles:</string>
+    <string name="tv_Datos">Complete los siguientes datos:</string>
+    <string name="cb_Primaria">Primario</string>
+    <string name="cb_Secundario">Secundario</string>
+    <string name="cb_Terciario">Terciario</string>
+
+
 </resources>
